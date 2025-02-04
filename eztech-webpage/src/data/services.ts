@@ -20,8 +20,8 @@ export const services: Service[] = [
     name:"ml_ai"
   },
   {
-    title: 'Data Analytics',
-    description: 'Our data experts transform raw data into actionable insights that drive better decision-making and improve operational efficiency.',
+    title: 'Web Scraping & Data Analytics',
+    description: 'Our data experts collect data from websites and transform them into actionable insights that drive better decision-making and improve operational efficiency.',
     icon: 'BarChart',
     name:"data_analytics"
   },
